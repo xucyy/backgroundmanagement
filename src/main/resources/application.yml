@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/backgroundmanagement
+    url: jdbc:mysql://10.4.32.32:3306/backgroundmanagement
     username: root
     password: root
 mybatis:
